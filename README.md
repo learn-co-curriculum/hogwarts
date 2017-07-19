@@ -7,6 +7,7 @@
   - create an index displaying all hog tiles
   - allow users to sort the hogs based on name and weight, and filter the hogs that are greased
   - BONUS: allow users to hide hogs (not delete them, just hide them from view!)
+  - BONUS: bring in pig gifs from an API
 
 ## Project requirements:
   - functional and container components (at least one of each, likely you'll have several of each)
