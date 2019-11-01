@@ -133,6 +133,10 @@ ul {
   clear: both;
 }
 
+button { 
+  padding: 50px; 
+}
+
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
